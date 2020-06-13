@@ -63,7 +63,7 @@
 
 
 
-    var creatorSpan = createElement("span", {"style": "font-size: 14px; position:absolute; bottom:2px; right:6px;"}, 'Made by <a style="text-decoration:none; color:red" href="https://github.com/SSsaikyou12345/xDiep.io" target="_blank">SSsaikyou12345</a>');
+    var creatorSpan = createElement("span", {"style": "font-size: 14px; position:absolute; bottom:2px; right:6px;"}, 'Made by <a style="text-decoration:none; color:red" href="https://github.com/SSisGOD/xDiep.io" target="_blank">SSisGOD</a>');
     var minimapCanvas = createElement("canvas", {"class": "minimap"});
     var minimapCtx = minimapCanvas.getContext("2d");
 
